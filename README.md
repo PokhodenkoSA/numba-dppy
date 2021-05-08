@@ -1,4 +1,5 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPokhodenkoSA%2Fnumba-dppy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPokhodenkoSA%2Fnumba-dppy?ref=badge_shield)
 
 # numba-dppy
 
@@ -85,3 +86,7 @@ Read this guide for additional features [INDEX.md](docs/INDEX.md)
 |   5   | Windows |      10      |  3.7   |    i7-10710     |    CI     |   2021.2    |      (1)       |    Numba, NumPy    |     OCL     |
 
 (1): `python setup.py install; pytest -q -ra --disable-warnings --pyargs numba_dppy -vv`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPokhodenkoSA%2Fnumba-dppy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPokhodenkoSA%2Fnumba-dppy?ref=badge_large)
